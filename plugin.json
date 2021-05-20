@@ -1,0 +1,7 @@
+{
+    "name": "ClickView Playlists",
+    "slug": "CVPlaylists",
+    "icon": "[\"fas\", \"play\"]",
+    "version": "1.0.0",
+    "author": "WebApps"
+}
