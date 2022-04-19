@@ -12,6 +12,7 @@ body.view {
 .preview .CVPlaylists div {
     max-width: 208px !important;
     max-height: 208px !important;
+    height: 208px !important;
 }
 .preview .CVPlaylists .ff-style-paper-lined {
     padding: 10px 5px 5px 5px;
