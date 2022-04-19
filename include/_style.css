@@ -5,9 +5,19 @@ body.view {
 }
 
 /* ClickView Playlists Plugin */
-.preview .CVPlaylists div,
 #block-preview .CVPlaylists div {
     max-width: 300px !important;
+}
+
+.preview .CVPlaylists div {
+    max-width: 208px !important;
+    max-height: 208px !important;
+}
+.preview .CVPlaylists .ff-style-paper-lined {
+    padding: 10px 5px 5px 5px;
+}
+.preview .CVcontainer .playBut svg {
+    zoom: 0.3 !important;
 }
 
 .CVPlaylists {
